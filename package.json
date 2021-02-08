@@ -1,0 +1,32 @@
+{
+  "name": "boottoast5",
+  "version": "1.0.0",
+  "description": "Easy toasts generator for Bootstrap 5",
+  "main": "js/Forked from: https://lettucebo.github.io/boottoast/",
+  "dependencies": {
+    "bootstrap": ">=5",
+    "jquery": "1.9.1 - 3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoltSoft/BootToast.git"
+  },
+  "keywords": [
+    "bootstrap-toaster",
+    "boottoast",
+    "toast",
+    "toast.js",
+    "jquery toaster",
+    "toasts",
+    "toaster",
+    "notification",
+    "notifications",
+    "bootstrap",
+    "bootstraptoaster"
+  ],
+  "author": "Peyton Gasink <pg@auburn.edu>, Andrey Surzhikov <Andrey.Surzhikov@gmail.com>",
+  "license": "MIT"
+}
